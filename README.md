@@ -1,2 +1,2 @@
 my first readme
-i wrote it
+i wrote it myself
